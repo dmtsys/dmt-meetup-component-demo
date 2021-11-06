@@ -1,0 +1,8 @@
+node_modules/
+
+public/assets/
+
+.DS_Store
+
+/svelte/dist
+/svelte/dist-ssr
